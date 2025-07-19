@@ -43,5 +43,5 @@ The UI includes:
 * FXML – UI components are defined in FXML and linked to Java controllers.
 * Java Collections (HashMap) – Used to manage and store appointment data efficiently.
 
-The project was completed as part of the Advanced Programming in Java course - 20554 (maman 14). Final grade: 100.
+## The project was completed as part of the Advanced Programming in Java course - 20554 (maman 14). Final grade: 100.
 
